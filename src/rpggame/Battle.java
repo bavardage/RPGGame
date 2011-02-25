@@ -1,6 +1,6 @@
 /*
  * To change this template, choose Tools | Templates
- * and in the editor.
+ * and in the editor.hnhnh
  */
 
 package rpggame;
